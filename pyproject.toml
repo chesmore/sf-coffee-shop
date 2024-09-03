@@ -1,0 +1,28 @@
+[project]
+name = "sf_coffee_shops"
+version = "0.1.0"
+description = "A Dagster project to document my favorite coffee shops in SF"
+readme = "README.md"
+authors = [
+    { name = "Grace Chesmore", email = "gechesmore@gmail.com" }
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+
+dependencies = [
+    "dagster",
+    "dagit",
+    "pandas",
+]
+
+[project.urls]
+"Source Code" = "https://github.com/chesmore/sf_coffee_shops"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.dagster]
+module_name = "sf_coffee_shops.definitions"
+code_location_name = "sf_coffee_shops"

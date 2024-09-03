@@ -1,0 +1,11 @@
+# Dagster specific
+tmp*/
+
+# Environment Variables and Configuration
+.venv
+
+# Python Bytecode
+__pycache__/
+
+# VSCode
+.vscode/
