@@ -1,6 +1,6 @@
 # ☕ SF Coffee Shops
 
-This is a [Dagster](https://dagster.io/) project scaffolded with [`dagster project scaffold`](https://docs.dagster.io/getting-started/create-new-project).
+This is a [Dagster](https://dagster.io/) project documenting my favorite coffee shops in San Francisco, CA.
 
 ## Getting started
 
