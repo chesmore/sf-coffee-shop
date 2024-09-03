@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "A Dagster project to document my favorite coffee shops in SF"
 readme = "README.md"
 authors = [
-    { name = "Grace Chesmore", email = "gechesmore@gmail.com" }
+    { name = "Grace Chesmore"}
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
